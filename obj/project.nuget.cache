@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydA9HOGQt6BuznMZT4uOVHwxQc3cF97kPi7f8sxlzDUwrmKFWkhlCwF446ic0fGdTaw767OzNF/c7Uv1nKUJ8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Barbara\\CodingChallenges\\JackHenry\\GetSubRedditPosts\\GetSubRedditPosts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Barbara\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Barbara\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Barbara\\.nuget\\packages\\reddit\\1.5.2\\reddit.1.5.2.nupkg.sha512",
+    "C:\\Users\\Barbara\\.nuget\\packages\\restsharp\\106.6.9\\restsharp.106.6.9.nupkg.sha512",
+    "C:\\Users\\Barbara\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Barbara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Barbara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Barbara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
